@@ -4,18 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Personenschutz für elektrische Reparaturen
 
-## Erklärende Unterzeile (optional)
+**Beim Reparieren defekter Geräte können schon mal Sicherungen rausfliegen. Das ist auch gut so, ein Stromausfall ist aber dennoch selten willkommen. Mit dem hier gezeigten Personenschutzgerät lässt sich das vermeiden und es reagiert sogar noch empfindlicher als handelsübliches Equipment.**
 
-**Vorspann aus dem Heft**
+![Aufmacherbild aus dem Heft](./doc/personenschutz_quer.jpg)
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+Hier liegen die 3D-Druckdaten für das Personenschutzgehäuse.
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
-
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/26](https://www.heise.de/select/make/2026/6)**.
